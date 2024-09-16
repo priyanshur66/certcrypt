@@ -58,7 +58,7 @@ const MainPage = () => {
     <p>(Mon - Sat: 9 AM - 6 PM)</p>
 
     <p className="text-2xl mb-2 mt-6">Address</p>
-    <p>Yelahanka New Town, Bengaluru, Karnataka, 560064</p>
+    <p>Shirdi, Pune, Maharashtra, 560064</p>
   </div>
 </section>
 
